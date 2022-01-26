@@ -5,4 +5,4 @@ The R code with implementation details used in Propensity Score Weighting for Ca
 
 2_SGA_simulation.R runs the main simulation study described in paper.
 
-We have also developed a suite of R functions to perform propensity score weighting analysis for causal subgroup analyses. For more details, please refer to https://github.com/siyunyang/PSweight.SGA
+We have also developed a suite of R functions with illustrative examples to perform propensity score weighting analysis for causal subgroup analyses. For more details, please refer to https://github.com/siyunyang/PSweight.SGA
